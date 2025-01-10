@@ -51,8 +51,11 @@ This project demonstrates how to apply linear regression for predicting housing 
 
 
 OUTPUT
+
 ![image](https://github.com/user-attachments/assets/91a242fa-e704-4bbe-bf47-6ecb01947275)
+
 ![image](https://github.com/user-attachments/assets/1937924a-585a-405f-949b-bf71f8c6eb82)
+
 ![image](https://github.com/user-attachments/assets/44c99d52-58a2-4264-b34b-2c022040bb11)
 
 
